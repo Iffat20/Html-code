@@ -17,5 +17,5 @@ href="styles.css">
 <nev>
 <ul>
 <li><a
-href="#about"> this repository is for my internship for which I used html I hope you liked it<\a>
+href="#about"> this repository is for my internship for which I used html I  hope you liked it<\a>
 <li><a>
