@@ -13,7 +13,7 @@ href="styles.css">
 <\head>
 <body>
 <header>
-<H1> hii iam iffat<\h1>
+<H1> hii iam iffat
 <nev>
 <ul>
 <li><a
