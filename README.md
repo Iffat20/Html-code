@@ -19,3 +19,30 @@ href="styles.css">
 <li><a
 href="#about"> this repository is for my internship for which I used html I  hope you liked it<\a>
 <li><a>
+href ="# contact"> 9897209961</a> </li>
+</ui>
+</nav> 
+</header>
+<main>
+  <section= about">
+    <h2>HTLM PROJECT</h2>
+    <p> this repository contains various hyml project and examples.</p>
+  </section>
+  <sectionid = "project"
+  >
+    <h2>gym website</h2>
+    <ui>
+      <li> <a> 
+      href=" project1. html> project no 1: simple web page </a>
+     </li><li> <a>
+     href="project2. html"> project2: html form</a>
+    </ui>
+    <section id =contact">
+      <h2> 9897209961 </h2>
+      <p> iffatahsan263@gmail.com</p>
+     </section>
+    
+  </main>
+  <footer>
+    <p>& copy: 7 ot 2024 my intrebship reposetry </p>
+  </footer>
