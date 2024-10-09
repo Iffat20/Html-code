@@ -33,7 +33,7 @@ href="#about"> this repository is for my internship for which I used html I  hop
     <h2>gym website</h2>
     <ui>
       <li> <a> 
-      "href=" project1. html> project no 1: simple web page </a>
+      <"href=" project1. html> project no 1: simple web page </a>
      </li><li> <a>
      href="project2. html"> project2: html form</a>
     </ui>
