@@ -10,7 +10,7 @@ intial-scale=1.0">
 <link real=style sheet"
 href="styles.css">
 html repository
-<\head>
+
 <body>
 <header>
 <H1> Hii i am iffat</H1>
