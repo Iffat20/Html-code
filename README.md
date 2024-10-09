@@ -9,7 +9,7 @@ content="Width=device=width
 intial-scale=1.0">
 <link real=style sheet"
 href="styles.css">
-<title>html repository<\title>
+html repository
 <\head>
 <body>
 <header>
