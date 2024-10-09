@@ -35,7 +35,7 @@ href="#about"> this repository is for my internship for which I used html I  hop
       <li> <a> 
       project no 1: simple web page 
      </li><li> <a>
-      project2: html form
+      project no 2: html form
     </ui>
     <section id =contact">
       <h2> 9897209961 </h2>
@@ -44,5 +44,5 @@ href="#about"> this repository is for my internship for which I used html I  hop
     
   </main>
   <footer>
-    <p>& copy: 7 ot 2024 my intrebship reposetry </p>
+    <p>& copy: 7 oct 2024 my intrebship reposetry </p>
   </footer>
